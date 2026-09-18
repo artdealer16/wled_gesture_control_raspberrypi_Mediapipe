@@ -1,0 +1,2 @@
+# wled_gesture_control_raspberrypi_Mediapipe
+Designed and prototyped an end-to-end gesture-controlled lighting product, 3D modeling the enclosure in Fusion 360 CAD and mapping hand-tracking input to lighting behaviors through a 3-stage interaction framework (SEE → SEND → LIGHT) • Integrated Raspberry Pi 4 with AI Framework MediaPipe hand-tracking, ESP32 microcontroller, and WLED fi rmware; transmitted gesture data from Pi to ESP32 over network using HTTP requests with JSON payloads for real-time lighting response.
